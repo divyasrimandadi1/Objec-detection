@@ -1,0 +1,2 @@
+model,checkpoint,checkpoint_mb,parameters_m,load_seconds,mean_latency_ms,p95_latency_ms,inference_fps,mean_boxes_per_frame,vehicle_classes,vehicle_class_counts,rss_after_load_mb,rss_after_inference_mb,peak_cuda_mb,video,sample_frames,mean_brightness
+best.pt,C:\Users\DivyaSriMandadi\Documents\Objec detection\models\best.pt,5.123600959777832,2.50419,0.0637107000220567,61.039129993878305,70.64462502603419,16.38293337569345,12.366666666666667,['vehicle'],{'vehicle': 371},400.1875,555.28125,,C:\Users\DivyaSriMandadi\Documents\real_videos\I2syQkUAm0g_00.mp4,30,89.1636968640451
